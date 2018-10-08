@@ -11,7 +11,7 @@ This repo contains deeplearning.ai's Face Recognition tutorial notebooks.
 
 #### Q/A:
 
-Q: Which notebook should I start working on?
+Q: Which notebook should I start working on?  
 A: Start from the copy of the latest version (i.e. Face-Recognition-v3-copy.ipynb)
 
 *It is not guaranteed that solutions provided here are correct or optimal. Please only use these notebooks
