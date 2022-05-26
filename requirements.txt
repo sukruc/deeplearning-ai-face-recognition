@@ -155,7 +155,7 @@ SQLAlchemy==1.1.5
 statsmodels==0.6.1
 sympy==1.0
 tables==3.3.0
-tensorflow==1.2.1
+tensorflow==2.7.2
 terminado==0.6
 text-unidecode==1.2
 Theano==1.0.4
