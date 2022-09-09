@@ -75,7 +75,7 @@ Markdown==2.6.8
 MarkupSafe==0.23
 matplotlib==2.0.0
 mido==1.2.9
-mistune==0.7.3
+mistune==0.8.1
 mpmath==0.19
 multipledispatch==0.4.9
 music21==4.1.0
