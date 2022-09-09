@@ -63,7 +63,7 @@ jupyter==1.0.0
 jupyter-client==4.4.0
 jupyter-console==5.0.0
 jupyter-core==4.2.1
-jupyterhub==0.7.2
+jupyterhub==1.5.0
 jupyterlab==0.18.1
 Keras==2.0.7
 lazy-object-proxy==1.2.2
